@@ -13,7 +13,7 @@
 # 🚀 Projeto - Sistema de salário
 
 # Página atualizada
-![imagem](imgsistema/sistema.png.png.png)
+![imagem](imgsistema/sistema.png.png)
 
 
 ## Status do Projeto🚧
