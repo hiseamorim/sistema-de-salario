@@ -32,8 +32,8 @@ Estamos utilizando a linguagem php ensinada em aula com o professor Leonardo Roc
 - `Total de Vendas no Mês`: Campo para preencher o total das metas alcançadas no mês.
 
 ### 🛠️ Tecnologia ultilizadas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  />  > |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 /> |
-| :---: | :---: | :---: | :---: | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 /> |
+| :---: | :---: | :---: | 
 
 ## 📄 Fontes consultadas
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847673?v=4" width=115><br><sub>Maria Eduarda Simões</sub>](https://github.com/Mariaeduardasimoes)
